@@ -1,0 +1,14 @@
+﻿global using System.Dynamic;
+global using System.Reflection;
+global using System.Net;
+global using Newtonsoft.Json;
+global using JsonSerializer = System.Text.Json.JsonSerializer;
+global using Microsoft.Extensions.Caching.Distributed;
+global using NowSoft.Common.Services.Contracts;
+global using NowSoft.Common.Services.Implementation;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.Extensions.Primitives;
+global using NowSoft.Common.Response;
+global using Microsoft.Net.Http.Headers;
+global using System.Linq.Expressions;
